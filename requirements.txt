@@ -1,0 +1,4 @@
+anthropic
+google-analytics-data
+python-dotenv
+reportlab
